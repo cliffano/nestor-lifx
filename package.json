@@ -1,0 +1,47 @@
+{
+  "name": "nestor-lifx",
+  "description": "CLI for Jenkins LIFX notifier",
+  "keywords": [],
+  "version": "0.0.1",
+  "homepage": "http://github.com/cliffano/nestor-lifx",
+  "author": "Cliffano Subagio cliffano@gmail.com (blog.cliffano.com)",
+  "contributors": [
+    "All contributors (https://github.com/cliffano/nestor-lifx/graphs/contributors)"
+  ],
+  "main": "./lib/nestor-lifx",
+  "bin": {
+    "nestor-lifx": "./bin/nestor-lifx"
+  },
+  "preferGlobal": true,
+  "repository": {
+    "type": "git",
+    "url": "http://github.com/cliffano/nestor-lifx.git"
+  },
+  "bugs": {
+    "url": "http://github.com/cliffano/nestor-lifx/issues"
+  },
+  "directories": {
+    "bin": "./bin",
+    "lib": "./lib",
+    "test": "./test"
+  },
+  "dependencies": {
+    "bagofcli": "^0.2.1",
+    "lifx": "^0.3.1",
+    "nestor": "^0.3.1"
+  },
+  "devDependencies": {
+    "buster-node": "^0.7.1",
+    "referee": "^1.1.1"
+  },
+  "scripts": {},
+  "engines": {
+    "node": ">= 0.10.0"
+  },
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "http://github.com/cliffano/nestor-lifx/raw/master/LICENSE"
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "commands": {
+    "run": {
+      "desc": "Display latest build status on LIFX bulbs",
+      "options": [
+        { "arg": "-j, --job <job>", "desc": "Jenkins job name" },
+        { "arg": "-v, --view <view>", "desc": "Jenkins view name" },
+        { "arg": "-s, --schedule <schedule>", "desc": "Cron scheduling definition, default: 0 * * * * * (every minute)" },
+        { "arg": "-m, --map <map>", "desc": "Status-colour map, default: OK=green,FAIL=red,WARN=blue" }
+      ]
+    }
+  }
+}

@@ -1,0 +1,7 @@
+- params:
+    nestorlifx: ../../../../../bin/nestor-lifx
+
+- description: Command help should display help information
+  command: '{nestorlifx} --help'
+  exitcode: 0
+  output: 'Usage: nestor-lifx'
