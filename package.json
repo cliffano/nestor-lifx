@@ -1,7 +1,14 @@
 {
   "name": "nestor-lifx",
   "description": "CLI for Jenkins LIFX notifier",
-  "keywords": [],
+  "keywords": [
+    "jenkins",
+    "lifx",
+    "nestor",
+    "cli",
+    "notifier",
+    "ci"
+  ],
   "version": "0.0.1",
   "homepage": "http://github.com/cliffano/nestor-lifx",
   "author": "Cliffano Subagio cliffano@gmail.com (blog.cliffano.com)",
