@@ -1,9 +1,9 @@
 <img align="right" src="https://raw.github.com/cliffano/nestor-lifx/master/avatar.jpg" alt="Avatar"/>
 
-[![Build Status](https://secure.travis-ci.org/cliffano/nestor-lifx.png?branch=master)](http://travis-ci.org/cliffano/nestor-lifx)
-[![Dependencies Status](https://david-dm.org/cliffano/nestor-lifx.png)](http://david-dm.org/cliffano/nestor-lifx)
-[![Coverage Status](https://coveralls.io/repos/cliffano/nestor-lifx/badge.png?branch=master)](https://coveralls.io/r/cliffano/nestor-lifx?branch=master)
-[![Published Version](https://badge.fury.io/js/nestor-lifx.png)](http://badge.fury.io/js/nestor-lifx)
+[![Build Status](https://img.shields.io/travis/cliffano/nestor-lifx.svg)](http://travis-ci.org/cliffano/nestor-lifx)
+[![Dependencies Status](https://img.shields.io/david/cliffano/nestor-lifx.svg)](http://david-dm.org/cliffano/nestor-lifx)
+[![Coverage Status](https://img.shields.io/coveralls/cliffano/nestor-lifx.svg)](https://coveralls.io/r/cliffano/nestor-lifx?branch=master)
+[![Published Version](https://img.shields.io/npm/v/nestor-lifx.svg)](http://www.npmjs.com/package/nestor-lifx)
 <br/>
 [![npm Badge](https://nodei.co/npm/nestor-lifx.png)](http://npmjs.org/package/nestor-lifx)
 
