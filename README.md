@@ -43,6 +43,14 @@ Colophon
 
 [Developer's Guide](http://cliffano.github.io/developers_guide.html#nodejs)
 
+Build reports:
+
+* [Code complexity report](http://cliffano.github.io/nestor-lifx/complexity/plato/index.html)
+* [Unit tests report](http://cliffano.github.io/nestor-lifx/test/buster.out)
+* [Test coverage report](http://cliffano.github.io/nestor-lifx/coverage/buster-istanbul/lcov-report/lib/index.html)
+* [Integration tests report](http://cliffano.github.io/nestor-lifx/test-integration/cmdt.out)
+* [API Documentation](http://cliffano.github.io/nestor-lifx/doc/dox-foundation/index.html)
+
 Related Projects:
 
 * [nestor](http://github.com/cliffano/nestor) - Jenkins CLI and node.js client
